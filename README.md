@@ -40,19 +40,19 @@ Use this option to manually create your own lower firmware AIO backported game u
 This is basically option 2 and 3 in one process     
      
 6. Fix Game Info                 
-Unsure. :/ try it and find out :) (or will be added when i do)          
+WIP        
       
 7. DLC - Change Region         
 Change the region of a FPKG DLC file (you may need the product code region and unique number ID of both the original game and the alternate game region you want to convert it to)
      
 8. PS4 DLC Unlocker            
-Unsure. :/ try it and find out :)  (or will be added when i do)       
+WIP    
       
 9. Without Data DLC to Data DLC      
-Unsure. :/ try it and find out :)  (or will be added when i do)       
+WIP   
       
 10. Data DLC to Without Data DLC      
-Unsure. :/ try it and find out :) (or will be added when i do)    
+WIP
       
 11. Update - Change Region      
 Change the region of a FPKG Update file (you may need the  product code region and unique number ID of both the source region and the      
@@ -101,13 +101,13 @@ THE FILE YOU GET IS ONLY THE UPDATE TO THE GAME YOU STILL NEED THE BASE GAME OR 
 3. Place .zip archive file you get from *3. Backup Backported Files* or one you have sourced yourself       
 4. Run the *PS4 v27* file and type 4 in the CMD window then press enter and wait the larger the files the longer the proccess   
      
-# 6. Unknown to me     
-# 7. DLC - Change Region       
-# 8. Unknown to me       
-# 9. Unknown to me         
-# 10 Unknown to me     
-
+# 6. WIP 
+# 7. WIP 
+# 8. WIP        
+# 9. WIP          
+# 10 WIP      
 # 11. Update - Change Region
 1. Place the base game you have in the **Game** folder   
 2. Place the alternate region update file in the *Update* folder.    
-3. Run the *PS4 v27* file and type 11 in the CMD window then press enter and wait the larger the files the longer the proccess          
+3. Run the *PS4 v27* file and type 11 in the CMD window then press enter and wait the larger the files the longer the proccess        
+# 12.WIP 
