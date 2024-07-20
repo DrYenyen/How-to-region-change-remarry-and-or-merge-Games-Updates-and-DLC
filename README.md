@@ -37,7 +37,6 @@ This will let you build the data from *3. Backup Backported Files* along with th
         
 5. Merge Game + Update + Backport    
 Use this option to manually create your own lower firmware AIO backported game using the base game a update and the backport data created from  *3. Backup Backported Files* which  allows it to work on lower firmware.    
-     
 This is basically option 2 and 3 in one process     
      
 6. Fix Game Info               
