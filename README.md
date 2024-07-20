@@ -1,5 +1,5 @@
-# How-to-region-change-remarry-and-or-merge-Games-Updates-and-DLC
-How to region change, remarry and or merge Games, Updates and DLC   FPKGS ONLY!!!
+# How-to-region-change-remarry-or-merge-Games-Updates-and-DLC
+How to region change, remarry or merge Games, Updates and DLC   FPKGS ONLY!!!
           
 # DISCLAIMER I DID NOT MAKE THIS SCRIPT OR THE TOOLS INSIDE I AM SIMPLY HOSTING AND PROVIDING INSTRUCTIONS    
         
