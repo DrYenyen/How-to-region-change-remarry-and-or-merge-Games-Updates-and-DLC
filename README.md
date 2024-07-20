@@ -99,7 +99,7 @@ THE FILE YOU GET IS ONLY THE UPDATE TO THE GAME YOU STILL NEED THE BASE GAME OR 
 1. Place the base game you have in the **Game** folder  
 2. Place the update file in the **Update** folder 
 3. Place .zip archive file you get from *3. Backup Backported Files* or one you have sourced yourself       
-4. Run the *PS4 v27* file and type 4 in the CMD window then press enter and wait the larger the files the longer the proccess   
+4. Run the *PS4 v27* file and type 5 in the CMD window then press enter and wait the larger the files the longer the proccess   
      
 # 6. WIP 
 # 7. WIP 
