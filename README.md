@@ -109,4 +109,4 @@ THE FILE YOU GET IS ONLY THE UPDATE TO THE GAME YOU STILL NEED THE BASE GAME OR 
 # 11. Update - Change Region
 1. Place the base game you have in the **Game** folder   
 2. Place the alternate region update file in the *Update* folder.    
-3 Run the *PS4 v27* file and type 11 in the CMD window then press enter and wait the larger the files the longer the proccess      
+3. Run the *PS4 v27* file and type 11 in the CMD window then press enter and wait the larger the files the longer the proccess          
