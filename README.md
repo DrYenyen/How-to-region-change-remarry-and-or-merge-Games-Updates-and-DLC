@@ -1,7 +1,7 @@
 # How-to-region-change-remarry-and-or-merge-Games-Updates-and-DLC
 How to region change, remarry and or merge Games, Updates and DLC      
           
-# DISCLAIMER I DID NOT MAKE THIS SCRIPT OR THE TOOLS INSIDE I AM SIMPLY HOSTING AND PROVIDING INSTRUCTIONS   
+# DISCLAIMER I DID NOT MAKE THIS SCRIPT OR THE TOOLS INSIDE I AM SIMPLY HOSTING AND PROVIDING INSTRUCTIONS    
         
 # The PS4 system game structure  
 1 The product code is distinct to a region, and the common codes you’ll see are CUSA, PCAS, and PLAS.      
@@ -33,10 +33,12 @@ If you'd like to install a game as 1 file or save hdd space use this option.
 Choose a file that has previously had work done to make it compatible with lower firmware and backup the *backport* data. It will be turned into a .zip archive file.      
        
 4. PS4 Rebuild PKG - Backport       
-This will let you build the data from 3. along with the base game and update and create a Backport UPDATE(base game will still need to be installed or merged via option 2. Merge Game + Update     
+This will let you build the data from *3. Backup Backported Files* along with the base game and update and create a Backport UPDATE pkg (the base game will still need to be installed or merged via option 2. Merge Game + Update)  
         
 5. Merge Game + Update + Backport    
-Use this option to manually create your own lower firmware AIO backported game using the base game a update and the backport data created from 3. and 4. which allows it to work on lower firmware.        
+Use this option to manually create your own lower firmware AIO backported game using the base game a update and the backport data created from  *3. Backup Backported Files* which  allows it to work on lower firmware.    
+     
+This is basically option 2 and 3 in one process     
      
 6. Fix Game Info               
 Unsure. :/ try it and find out :)        
@@ -88,7 +90,12 @@ Always remove the files inside sub folders after you are done.
 # 4. PS4 Rebuild PKG - Backport     
 1. Place the base game you have in the **Game** folder  
 2. Place the update file in the **Update** folder     
-3. Place .zip archive file you get from *3. Backup Backported Files* or one you have sourced yourself       
+3. Place .zip archive file you get from *3. Backup Backported Files* or one you have sourced yourself inside the *Backported files* folder 
 4. Run the *PS4 v27* file and type 4 in the CMD window then press enter and wait the larger the files the longer the proccess   
            
-THE FILE YOU GET IS ONLY THE UPDATE TO THE GAME YOU STILL NEED THE BASE GAME OR TO MERGE IT WITH 2. Merge Game + Update        
+THE FILE YOU GET IS ONLY THE UPDATE TO THE GAME YOU STILL NEED THE BASE GAME OR TO MERGE IT WITH 2. Merge Game + Update           
+     
+# 5. Merge Game + Update + Backport    
+1. Place the base game you have in the **Game** folder  
+2. Place the update file in the **Update** folder 
+3. Place .zip archive file you get from *3. Backup Backported Files* or one you have sourced yourself    
