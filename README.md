@@ -66,6 +66,9 @@ Run the *PS4-AiO v27* for the first run type *yes* and press enter.
           
 This folder will be used for all the workflow.       
      
+# Notice!    
+Always remove the files inside sub folders after you are done.   
+     
 # <ins>Usage Instructions<ins>                
       
 # 1. Remarry Game + Update    
