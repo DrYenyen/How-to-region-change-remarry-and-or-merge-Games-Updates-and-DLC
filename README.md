@@ -1,5 +1,5 @@
 # How-to-region-change-remarry-and-or-merge-Games-Updates-and-DLC
-How to region change, remarry and or merge Games, Updates and DLC      
+How to region change, remarry and or merge Games, Updates and DLC   FPKGS ONLY!!!
           
 # DISCLAIMER I DID NOT MAKE THIS SCRIPT OR THE TOOLS INSIDE I AM SIMPLY HOSTING AND PROVIDING INSTRUCTIONS    
         
@@ -102,7 +102,7 @@ THE FILE YOU GET IS ONLY THE UPDATE TO THE GAME YOU STILL NEED THE BASE GAME OR 
 4. Run the *PS4 v27* file and type 4 in the CMD window then press enter and wait the larger the files the longer the proccess   
      
 # 6. Unknown to me     
-# 7. Unknown to me      
+# 7. DLC - Change Region       
 # 8. Unknown to me       
 # 9. Unknown to me         
 # 10 Unknown to me     
