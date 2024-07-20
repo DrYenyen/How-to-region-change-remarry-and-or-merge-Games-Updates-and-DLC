@@ -1,7 +1,7 @@
 # How-to-region-change-remarry-and-or-merge-Games-Updates-and-DLC
 How to region change, remarry and or merge Games, Updates and DLC      
           
-# DISCLAIMER I DID NOT MAKE THIS SCRIPT I AM HOSTING AND GIVING INSTRUCTIONS    
+# DISCLAIMER I DID NOT MAKE THIS SCRIPT OR THE TOOLS INSIDE I AM SIMPLY HOSTING AND PROVIDING INSTRUCTIONS   
         
 # The PS4 system game structure  
 1 The product code is distinct to a region, and the common codes you’ll see are CUSA, PCAS, and PLAS.      
